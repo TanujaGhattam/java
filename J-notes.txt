@@ -1,4 +1,4 @@
-java was introdced int he 
+java was introduced int he 
 - In the year 2012 java product was under taken by "Oracle INC" .
 - Java contains multiple product layers or edditions of java 
 1.java SE(Standard Edition)----->to write programes
@@ -26,8 +26,8 @@ ________________________
 -->OOPS is a theory that contains ideal concepts the languages which are implementing them can produce the softwares which are error free, reusable and robust.
 
 2.CASE SENSITIVE:
----------------------
---> Java code syntax are Camel Case Sensitive for maintaining difference from regular text and reserved keywords.
+					---------------------
+--> Java code syntax are Camel Case Sencitive for maintaining difference from regular text and reserved keywords.
 3.REUSABLE:
 -------------------
 
@@ -455,46 +455,7 @@ Collects categorized into
 1.list
 2.set
 3.map
-4.tables or dictionaries.
-
-1.List
-----------
--->
-WORING WITH ARRAYLIST OF OBJECS
-_________________________________________
-
-In array list we use mostly in the database means where more data is injected then we use these arraylist in realtime world 
-
-LINKED LIST
-____________
-
---> It is backed up by double linked list from data structures syntax vise it it similar to arraylist nut internal architecture is entirely different compare
-with arraylist linkedlist is bit slow 
---> Array list is more efficient than compared to linkedlist.
-
-STACK
-________
-
---> It works with a formula "list in first out" (lifo)
---> In this collection insert operation will be called as "push" and delete operation as "pop" 
---> In stack collection we can't delete elements in btw first and last nodes.
---> this is formed before of array.
---> It is introduced because to cover the drawback of from certain index from middle of the element list but in array we delete specific element from array.it 
-is the advantage of usage of array.
-
-QUEUE
-________
-
--->Queue is a collection which works with a formula "first in first out" as (fifo).
---> It is available from version 1.2 of java.
---> The insert operation can be done with "add ()" and delete operation can be done with "poll()"
-
-HASHSET
-_________
-
---> Baseiclly sets ared designed for avoiding duplicates.
---> Hashset will generate unique value before inserting into collection.
---> it won't take dupicates.
+4.tables or ditionaries
 
 
 
