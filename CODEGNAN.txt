@@ -1,0 +1,14 @@
+CODEGNAN
+____________
+
+REACT:
+-----------
+
+--> " class components " are introduced 1st in react.
+--> We hava only 1 render() function in entire program. it uses the props and execute .it is main method
+--> 1st "function component" is introduced and then "class component" is introduced.
+--> in only class component render() is present.
+--> Hooks are only used in " function component" 
+--> " props " are I/p for react componets.these are passed from parent component to child component.
+--> " state " are used to change the state of function in code. EG: to incremetn the value .
+--> " state" is typically updating the setState method.
